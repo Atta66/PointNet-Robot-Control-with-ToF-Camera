@@ -1,4 +1,4 @@
-# PointNet-robot-control-with-ToF-camera
+# Movement Control of TB2 using PointNet with ToF Cameras
 
 ## Video demonstration
 
