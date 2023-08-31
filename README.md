@@ -1,4 +1,4 @@
-# PointNet-movement-control-with-ToF-camera
+# PointNet-robot-control-with-ToF-camera
 
 ## Video demonstration
 
