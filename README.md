@@ -1,5 +1,7 @@
 # Movement Control of TB2 using PointNet with a ToF Camera
 
+This repository contains the software details for movement control of TB2 using PointNet for object segmentation with the help results obtained from a ToF camera (Pico Flexx).
+
 ## Hardware
 
 Virtual machine on `Windows 10` with allocated a minimum of `6 CPU cores` and `8 GBs of RAM`.
