@@ -1,6 +1,6 @@
 # Movement Control of TB2 using PointNet with a ToF Camera
 
-This repository contains the software details for movement control of TB2 using PointNet for object segmentation with the help results obtained from a ToF camera (Pico Flexx).
+This repository contains the software details for movement control of TB2 using PointNet for object segmentation with the help of results obtained from a ToF camera (Pico Flexx).
 
 ## Hardware
 
