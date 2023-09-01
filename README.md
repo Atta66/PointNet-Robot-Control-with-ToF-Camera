@@ -2,7 +2,7 @@
 
 ## Python
 
-``detection_pipeline``
+`detection_pipeline`
 
 ## CPP Executables
 
