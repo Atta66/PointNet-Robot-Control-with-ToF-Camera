@@ -1,5 +1,19 @@
 # Movement Control of TB2 using PointNet with a ToF Camera
 
+## Hardware
+
+Virtual machine on `Windows 10` with allocated a minimum of `6 CPU cores` and `8 GBs of RAM`.
+
+`Operating System:` Ubuntu 18.04
+
+`Python:` 3.7 or greater
+
+`Tensorflow:` 2.11.0
+
+`Open3D:` 0.17.0
+
+`TB2 ROS Version:` Melodic
+
 ## Python
 
 `detection_pipeline.py:` Main automated pipeline for segmentation and movement control output
