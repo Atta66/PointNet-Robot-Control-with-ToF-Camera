@@ -2,9 +2,31 @@
 
 ## Python
 
-`detection_pipeline`
+`detection_pipeline.py:` Main automated pipeline for segmentation and movement control output
+
+`model.py:` PointNet Model which is imported by `detection_pipeline.py`
 
 ## CPP Executables
+
+All the executable are used in `detection_pipeline.py`
+
+`sampleRecordRRF:` for recording RRF
+
+`sampleExportPLY:` RRF to PLY converter
+
+`pcd_write:` Ground plane removal algorithm (RANSAC)
+
+## Other
+
+`1:` RRF output
+
+`1.ply:` Result from RRF to PLY conversion
+
+`checkpoint:` Contains the segmentation ckpt with 73 % accuracy on training data
+
+`data:` pcd files for testing purposes
+
+
 
 ## Video demonstration
 
